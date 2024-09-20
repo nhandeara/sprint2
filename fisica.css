@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+    body{
+        background-color:#b7dea5;
+    }
+    
+h1{
+text-align: center;
+color: #000;;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+    color:#777373;
+}
+
+.grafico{
+height: 400px;
+justify-content: center;
+align-items: center;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+*{
+    margin: 1%;
+}
+table {
+    border: 3px solid;
+    border-color: #000000;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px solid #ccc;
+    
+}
+
+td {
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+}
+.primeira{
+    background-color: #016d25;
+    color: #FFFFFF;
+}
+.segunda{
+    background-color: rgb(177, 176, 177);
+    color:#000
+}
+.botao{
+    height: 400px;
+justify-content: center;
+align-items: center;
+}
+
+
+.O_que_e{
+    height: 400px;
+justify-content: center;
+align-items: center;
+background-color: #88c36d;
+}
